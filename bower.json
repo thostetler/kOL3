@@ -1,0 +1,35 @@
+{
+  "name": "ko-ol3-component",
+  "description": "Knockout-Based Map Component",
+  "main": "ko-ol3-component.js",
+  "authors": [
+    "Tim Hostetler <tim.hostetler@intermedix.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Knockout",
+    "OL3",
+    "Mapping",
+    "KO",
+    "OpenLayers",
+    "OpenLayers",
+    "3"
+  ],
+  "homepage": "https://github.com/thostetler/kOL3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "^3.4.1",
+    "bower-ol3": "ol3#^3.4.0",
+    "requirejs": "^2.3.2",
+    "lodash": "^4.17.2",
+    "text": "requirejs/text#^2.0.15",
+    "jquery": "^3.1.1"
+  }
+}
